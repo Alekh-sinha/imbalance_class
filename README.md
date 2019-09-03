@@ -1,7 +1,7 @@
 # imbalance_class
 This project gives some insight on how to deal with imbalance class.
 It can be dealt in two ways:
-1.Pre-proessinh
+1.Pre-proessing
 2.Adjusting algorithm
 Feature-engineering
 For an imbalance problem, it is very difficult to prepare a model which is not biased towards negative classs. I tried a few feature engineering option to prepare trustable model. Some of those were:-
